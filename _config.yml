@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: Inoh Jay's Blog # the main title
 
-tagline: inoh jay # it will display as the subtitle
+tagline: inoh jay (Inho Jeong) # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Tech , Social Blog
@@ -34,7 +34,7 @@ github:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Inho Jeong
+  name: Inoh Jay (Inho Jeong)
   email: inoh.jay@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
